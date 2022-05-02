@@ -4,7 +4,7 @@ Hi 👋 My name is William Kies
 Web Developer
 -------------
 
-I've been studying code since 2020. I'm a curious IT student and a motivated person. I have an RNCP title Web developer / mobile web (equivalent BAC + 2) from, LaPlateforme 🇫🇷 School.
+I've been studying code since 2020. I'm a curious IT student and a motivated person. I have an RNCP title Web developer / mobile web (equivalent BAC + 2) from, LaPlateforme_ 🇫🇷 School.
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [https://www.william-kies.students-laplateforme.io](http://www.william-kies.students-laplateforme.io/)
