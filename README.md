@@ -7,7 +7,7 @@ Web Developer
 I've been studying code since 2020. I'm a curious IT student and a motivated person. I have an RNCP title Web developer / mobile web (equivalent BAC + 2) from, LaPlateforme 🇫🇷 School.
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [https://www.william-kies.students-laplateforme.io](https://www.william-kies.students-laplateforme.io/)
+* 🖥️  See my portfolio at [https://www.william-kies.students-laplateforme.io](http://www.william-kies.students-laplateforme.io/)
 * ✉️  You can contact me at [william.kies@laplateforme.io](mailto:william.kies@laplateforme.io)
 
 ### Skills
